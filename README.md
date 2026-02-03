@@ -2,11 +2,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://raw.githubusercontent.com/Amit-KC/Amit-KC/main/github-stats.svg)
+![GitHub Stats](https://readme-stats.vercel.app/api?username=Amit-KC&show_icons=true&theme=dark)
 
 ## 🔤 Top Languages
 
-![Top Languages](https://raw.githubusercontent.com/Amit-KC/Amit-KC/main/top-languages.svg)
+![Top Languages](https://readme-stats.vercel.app/api/top-langs/?username=Amit-KC&layout=compact)
 
 <!--
 **Amit-KC/Amit-KC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
